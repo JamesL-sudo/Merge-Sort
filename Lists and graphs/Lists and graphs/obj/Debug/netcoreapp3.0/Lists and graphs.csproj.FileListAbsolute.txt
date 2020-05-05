@@ -1,0 +1,11 @@
+D:\Documents\GitHub\Merge-Sort\Lists and graphs\Lists and graphs\bin\Debug\netcoreapp3.0\Lists and graphs.exe
+D:\Documents\GitHub\Merge-Sort\Lists and graphs\Lists and graphs\bin\Debug\netcoreapp3.0\Lists and graphs.deps.json
+D:\Documents\GitHub\Merge-Sort\Lists and graphs\Lists and graphs\bin\Debug\netcoreapp3.0\Lists and graphs.runtimeconfig.json
+D:\Documents\GitHub\Merge-Sort\Lists and graphs\Lists and graphs\bin\Debug\netcoreapp3.0\Lists and graphs.runtimeconfig.dev.json
+D:\Documents\GitHub\Merge-Sort\Lists and graphs\Lists and graphs\bin\Debug\netcoreapp3.0\Lists and graphs.dll
+D:\Documents\GitHub\Merge-Sort\Lists and graphs\Lists and graphs\bin\Debug\netcoreapp3.0\Lists and graphs.pdb
+D:\Documents\GitHub\Merge-Sort\Lists and graphs\Lists and graphs\obj\Debug\netcoreapp3.0\Lists and graphs.csprojAssemblyReference.cache
+D:\Documents\GitHub\Merge-Sort\Lists and graphs\Lists and graphs\obj\Debug\netcoreapp3.0\Lists and graphs.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Merge-Sort\Lists and graphs\Lists and graphs\obj\Debug\netcoreapp3.0\Lists and graphs.AssemblyInfo.cs
+D:\Documents\GitHub\Merge-Sort\Lists and graphs\Lists and graphs\obj\Debug\netcoreapp3.0\Lists and graphs.dll
+D:\Documents\GitHub\Merge-Sort\Lists and graphs\Lists and graphs\obj\Debug\netcoreapp3.0\Lists and graphs.pdb
